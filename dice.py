@@ -1,11 +1,4 @@
 #Dice Rolling Game
-
-#Process:
-
-'''
-Roll the dice: y or n
-
-'''
 import random
 no_of_rolls = int(input("Enter the number of dice you want to roll: "))
 count = 0
